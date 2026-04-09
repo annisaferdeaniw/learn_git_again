@@ -2,3 +2,5 @@ ini adalah tugas ke 9 module 11
 ini masih belajar buat branch di github
 sekarang ada di step coba edit file yang ada di branch
 sudah mulai paham tetnag branch?
+masih coba belajar branch 
+tapi insight network kauak gak jalan
