@@ -3,4 +3,5 @@ ini masih belajar buat branch di github
 sekarang ada di step coba edit file yang ada di branch
 sudah mulai paham tetnag branch?
 masih coba belajar branch 
-tapi insight network kauak gak jalan
+tapi insight network gak jalan
+harusnya tadi udah coba merge, dan harusnya insight network ada perubahan
