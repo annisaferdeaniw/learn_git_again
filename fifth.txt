@@ -4,3 +4,5 @@ sekarang ada di step coba edit file yang ada di branch
 sudah mulai paham tetnag branch?
 masih coba belajar branch 
 tapi insight network kauak gak jalan
+file yang ini branch baru
+dalamnya harus diedit
