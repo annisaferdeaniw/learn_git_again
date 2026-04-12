@@ -5,3 +5,4 @@ sudah mulai paham tetnag branch?
 masih coba belajar branch 
 tapi insight network gak jalan
 harusnya tadi udah coba merge, dan harusnya insight network ada perubahan
+sekarang udah coba lagi untuk push
